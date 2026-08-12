@@ -104,6 +104,18 @@ export const en: Dictionary = {
         q: "Can you translate into English as well as Spanish?",
         a: "Yes — certified translation works both directions, English to Spanish and Spanish to English.",
       },
+      {
+        q: "What does \"digitally certified\" actually mean?",
+        a: "The document is signed with a qualified e-signature certificate, legally valid worldwide. There's no paper to pick up and no physical stamp — the signed file is the valid document itself.",
+      },
+      {
+        q: "Do I need an apostille in addition to the translation?",
+        a: "They're two different things: the apostille validates the original document for foreign authorities; the translation's certification validates the translation itself. Depending on the process, you may need one, the other, or both — I'll confirm what applies to your case.",
+      },
+      {
+        q: "Do you only work with individual clients, or with agencies too?",
+        a: "Both. I work directly with individuals and companies, and also as a vendor for local and international translation agencies — including coordinating teams on multilingual projects.",
+      },
     ],
     ctaHeadline: "Ready to send your document?",
     ctaButton: "Send your document",

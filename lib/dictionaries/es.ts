@@ -100,9 +100,21 @@ export const es: Dictionary = {
         q: "¿Cómo se calcula el precio?",
         a: "Por cantidad de páginas y complejidad, con la urgencia como factor en plazos muy cortos. Siempre vas a tener un número concreto antes de que empiece, nunca una estimación vaga.",
       },
-      {
+       {
         q: "¿Traducís también al inglés, o solo al español?",
         a: "Sí — la traducción pública funciona en los dos sentidos, de inglés a español y de español a inglés.",
+      },
+      {
+        q: "¿Qué significa que la traducción sea \"certificada digitalmente\"?",
+        a: "Que el documento queda firmado con un certificado de firma electrónica calificada, con validez legal en cualquier país. No hay papel que retirar ni sello físico — el archivo firmado ya es el documento válido.",
+      },
+      {
+        q: "¿Necesito apostilla además de la traducción?",
+        a: "Son dos cosas distintas: la apostilla le da validez al documento original ante autoridades extranjeras; la certificación de la traducción le da validez a la traducción en sí. Según el trámite, puede que necesites una, la otra, o ambas — te confirmo qué aplica en tu caso.",
+      },
+      {
+        q: "¿Trabajás solo con clientes particulares, o también con agencias?",
+        a: "Con ambos. Trabajo directo con individuos y empresas, y también como proveedora de agencias de traducción locales e internacionales, incluso coordinando equipos en proyectos multilingües.",
       },
     ],
     ctaHeadline: "¿Listo para enviar tu documento?",
